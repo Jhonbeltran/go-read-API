@@ -34,5 +34,5 @@ func main() {
 		panic(err.Error())
 	}
 
-	fmt.Println(post)
+	fmt.Println(post[0])
 }
